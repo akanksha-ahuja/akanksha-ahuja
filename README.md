@@ -1,10 +1,16 @@
 ### Hi there 👋 👩🏻‍💻
 
-<!-- - 🔭 I’m currently working on graph neural networks for particle physics 
-- 🌱 I’m currently learning how to reliably scale machine learning projects
+- 🔭 I’m currently working on graph neural networks for applications in physics and optical fibre communication systems. 
+- 🌱 I’m currently learning how to reliably scale machine learning models in production
 - 👯 I’m looking to collaborate with scientists, physicists and machine learning engineers.
 
-### Portfolio 
+
+### Contact
+- Twitter https://twitter.com/Akanksha_Ahuja9
+- LinkedIn https://www.linkedin.com/in/akanksha-ahuja99/
+- Email akanksha dot ahuja @ gmail dot com
+
+<!-- ### Portfolio 
 - Data Science
 - Design
 
@@ -24,7 +30,7 @@
 - Twitter
 - LinkedIn
 - Email 
- -->
+ --> 
 
 
 <!-- - 🤔 I’m looking for help with 
