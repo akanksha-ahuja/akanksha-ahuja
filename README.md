@@ -8,7 +8,7 @@
 ### Contact
 - Twitter https://twitter.com/Akanksha_Ahuja9
 - LinkedIn https://www.linkedin.com/in/akanksha-ahuja99/
-- Email akanksha dot ahuja @ gmail dot com
+<!-- - Email akanksha dot ahuja @ gmail dot com -->
 
 <!-- ### Portfolio 
 - Data Science
